@@ -1,6 +1,6 @@
 # GE Electives-Repo
 
-<img width="1920" height="1080" alt="Personal Brand-Kit (1)" src="https://github.com/user-attachments/assets/0f56ebce-3659-44b7-a97d-6a6a7af55437" />
+<img width="1920" height="1080" alt="Github (2)" src="https://github.com/user-attachments/assets/099b5cfa-f2cd-429b-82d7-c4e477f8ab07" />
 
 
 
