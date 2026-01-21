@@ -1,6 +1,7 @@
-# 21st-Century-Repo
+# GE Electives-Repo
 
-<img width="1920" height="1080" alt="Personal Brand-Kit" src="https://github.com/user-attachments/assets/87f07ee8-adc9-4df8-9fa3-a5c897fd10e2" />
+<img width="1920" height="1080" alt="Personal Brand-Kit (1)" src="https://github.com/user-attachments/assets/0f56ebce-3659-44b7-a97d-6a6a7af55437" />
+
 
 
 
