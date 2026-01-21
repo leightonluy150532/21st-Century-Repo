@@ -12,6 +12,11 @@ I’m passionate about learning and building with modern technologies, and I’m
 - 🌱 Currently learning and expanding my knowledge in various tech stacks  
 - 💡 Interested in software development and web technologies
 
+
+## 🚀 Goals
+
+I aim to grow as a developer by gaining hands-on experience, contributing to projects, and continuously learning new technologies.
+
 ## Tech Stacks 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
