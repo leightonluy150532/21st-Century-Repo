@@ -1,6 +1,7 @@
 # GE Electives-Repo
 
-<img width="1920" height="1080" alt="Github (2)" src="https://github.com/user-attachments/assets/099b5cfa-f2cd-429b-82d7-c4e477f8ab07" />
+<img width="1280" height="320" alt="Github Banner" src="https://github.com/user-attachments/assets/415be44b-fb4f-4c04-9c59-8409f639e3ef" />
+
 
 
 
